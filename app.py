@@ -12,9 +12,9 @@ class User:
 listOfUsers = []
 
 user1 = User("ABC", "abc@abc.ca")
-user2 = User("XYZ", "xyz@xyz.ca")
-
 listOfUsers.append(user1)
+
+user2 = User("XYZ", "xyz@xyz.ca")
 listOfUsers.append(user2)
 
 @app.route('/users', methods=['GET'])
