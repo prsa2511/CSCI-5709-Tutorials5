@@ -4,6 +4,8 @@ This project is a Flask-based web application designed to handle user data with 
 
 * *Date Created*: 12 July 2024
 * *Last Modification Date*: 12 July 2024
+* *Lab URL*: <https://csci-5709-tutorials5.onrender.com>
+* *Git Individual URL*: <https://git.cs.dal.ca/psakaria/csci-5709-tutorial5>
 * *Git URL*: <https://git.cs.dal.ca/psakaria/csci-5709-tutorials/-/tree/main/Tutorial5?ref_type=heads>
 
 ## Authors
